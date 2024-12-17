@@ -2,6 +2,7 @@
 * Proficient in Photoshop
 * Typing at 58 WPM
 * Creator of Greedy Goblins
+* Student at Skyline High School, enrolled in Game Dev 1.
 * [Email Oskar Szajnuk](mailto:9682459@graniteschools.org)
   
 
