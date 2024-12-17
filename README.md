@@ -11,9 +11,7 @@
 
 Repository: ![Link](https://github.com/Masterpaul562/gamedevteam3)
 
-* 75% of art assets completed by me
-* Infinite survival game
-* Theoretically infinite fun
+Goblin Survivor is an infinite survival game where you play as a goblin thrown into a dungeon by an evil overlord. You shop for weapons, use a magic beam to strike down your enemies, and have theoretically infinite fun. 75% of art assets are made by me, with numerous animations and refined pixel art making up what you see in the game.
 
 ![Example](https://github.com/user-attachments/assets/f753db79-09aa-4f4d-9379-f81b99792f4d)
 
