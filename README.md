@@ -2,7 +2,7 @@
 * Proficient in Photoshop
 * Typing at 58 WPM
 * Creator of Greedy Goblins
-* [Email Oskar Szajnuk](9682459@graniteschools.org)
+* [Email Oskar Szajnuk](mailto:9682459@graniteschools.org)
   
 
 # Group Projects
