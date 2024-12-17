@@ -9,6 +9,8 @@
 
 ## Goblin Survivor
 
+Repository: ![Link](https://github.com/Masterpaul562/gamedevteam3)
+
 * 75% of art assets completed by me
 * Infinite survival game
 
@@ -28,6 +30,3 @@ Some Art Assets:
 
 
 
-## Projects For Term 1
-
-## Projects For Term 2
